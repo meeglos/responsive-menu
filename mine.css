@@ -1,0 +1,43 @@
+/*
+* @Author: miguel
+* @Date:   2016-07-01 23:45:42
+* @Last Modified by:   miguel
+* @Last Modified time: 2016-07-02 00:53:17
+*/
+.header {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+.footer {
+  border-top: 1px solid #444;
+  padding-top: 20px;
+  margin-top: 20px;
+  color: #999
+}
+
+.p {
+  text-align: center;
+  padding-top: 120px;
+}
+
+.p a {
+  text-decoration: underline;
+  color: blue;
+}
+.vertical-align {
+    display: flex;
+    align-items: center;
+}
+.vcenter {
+    display: inline-block;
+    vertical-align: middle;
+    float: none;
+}
+.frm-margin {
+
+}
+.btn-margin {
+	left-margin: -150px;
+	position: fixed;
+}
